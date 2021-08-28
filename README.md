@@ -1,1 +1,6 @@
-# fantastiskais-sakums
+# GIT iesācēju kursi
+
+## Dienas plāns
+
+- Iedzert kafiju
+- Noklausīties lekciju
